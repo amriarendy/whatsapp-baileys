@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-starter-baileys",
+  "version": "1.0.0",
+  "description": "this application a bot whatsapp use baileys modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["whatsapp-bot, whatsapp-baileys, whatsapp-whiskeysockets, whatsapp-gateway, whatsapp-api, wa-bot"],
+  "author": "https://github.com/amriarendy/",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

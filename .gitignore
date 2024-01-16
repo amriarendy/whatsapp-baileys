@@ -1,0 +1,4 @@
+node_modules
+uploads/*
+lib/excel/*
+auth_session_info

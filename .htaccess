@@ -1,0 +1,6 @@
+Redirect 301 /index.js /403.html
+Redirect 301 /package-lock.json /403.html
+Redirect 301 /package.json /403.html
+Redirect 301 /node_modules /403.html
+Redirect 301 /auth_session_info /403.html
+ErrorDocument 404 /404.html
